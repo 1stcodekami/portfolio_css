@@ -21,7 +21,7 @@ const Hero = () => {
         </div>
         
         <div className="card-img">
-            <Image src="/images/photo_t.png" alt='Profile Picture' width={250} height={240} className='img'/>
+            <Image src="/images/Photo_t.png" alt='Profile Picture' width={250} height={240} className='img'/>
         </div>
         
         
